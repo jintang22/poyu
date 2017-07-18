@@ -1,3 +1,2 @@
 # poyu
-
-# for studing react & nodejs
+for studing react & nodejs
